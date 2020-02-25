@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "338513165340",
+    "firebase_url": "https://jumpseat-d2d11.firebaseio.com",
+    "project_id": "jumpseat-d2d11",
+    "storage_bucket": "jumpseat-d2d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338513165340:android:7f33731b141c859f8033d9",
+        "android_client_info": {
+          "package_name": "com.jumpseat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338513165340-mg2ekhb8lagfru79bu48sth8q5cbckmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCHqzxl9kNdAKcJgS-zq5Atxnmvyjcvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338513165340-mg2ekhb8lagfru79bu48sth8q5cbckmk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338513165340-8ujp7vdht6cs7bca24t4gub7n4773dle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.JumpSeat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
