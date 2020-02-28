@@ -1,9 +1,14 @@
 import React from 'react';
+import { createStore, applyMiddleware } from "redux";
+import thunk from 'redux-thunk';
 import AppRoutes from './src/navigation/routes'
 import firebase from 'react-native-firebase';
 import strings from './src/localization/strings';
+import SplashScreen from 'react-native-splash-screen'
+import ConfirmForgot from './src/screens/forgot/ConfirmForgot';
 import AsyncStorage from '@react-native-community/async-storage';
 import AsyncStorageKyes from './src/utils/AsyncStorageKyes';
+
 
 class App extends React.Component {
     constructor(props) {
@@ -30,6 +35,12 @@ class App extends React.Component {
         firebase.notifications().getInitialNotification()
             .then((notificationOpen) => {
                 if (notificationOpen) {
+                    // console.log("initial notification", notificationOpen);
+                    // App was opened by a notification
+                    // Get the action triggered by the notification being opened
+                    // const action = notificationOpen.action;
+                    // Get information about the notification that was opened
+                    // const notification = notificationOpen.notification;
                     this.openThreadNow(notificationOpen, navigate);
                 }
             });
@@ -37,6 +48,8 @@ class App extends React.Component {
 
     componentWillUnmount() {
         this.notificationListener();
+        // this.messageListener();
+        // this.unsubscribeFromNotificationListener();
     }
 
     async checkPermission() {
@@ -55,7 +68,10 @@ class App extends React.Component {
                 strings.FCM_TOKEN = this.state.token;
             })
         })
-        console.log("fcm token " + fcmToken)
+      
+        console.log("fcm token" + fcmToken)
+
+
     }
 
     async requestPermission() {
@@ -65,8 +81,9 @@ class App extends React.Component {
                 sound: true,
                 alert: true,
             }
-            );
 
+
+            );
             // User has authorised
             this.getToken();
         } catch (error) {
@@ -76,6 +93,7 @@ class App extends React.Component {
     }
 
     async CreateChannel() {
+
         const channel = new firebase.notifications.Android.Channel(
             'channelId',
             'Channel Name',
@@ -84,6 +102,7 @@ class App extends React.Component {
         firebase.notifications().android.createChannel(channel);
         // the listener returns a function you can use to unsubscribe
         this.unsubscribeFromNotificationListener = firebase.notifications().onNotification((notification) => {
+
             if (Platform.OS === 'android') {
                 const localNotification = new firebase.notifications.Notification({
                     sound: 'default',
@@ -120,9 +139,11 @@ class App extends React.Component {
     }
 
     async createNotificationListeners() {
+
         this.messageListener = firebase.messaging().onMessage((message) => {
             console.log("msg " + JSON.stringify(message))
         });
+
 
         this.notificationListener = firebase.notifications().onNotification((notification) => {
             const {
@@ -136,30 +157,50 @@ class App extends React.Component {
 
         });
 
+
         this.notificationDisplayedListener = firebase.notifications().onNotificationDisplayed((notification) => {
+            // Process your notification as required
+            // ANDROID: Remote notifications do not contain the channel ID. You will have to specify this manually if you'd like to re-display the notification.
         });
+
+
+
+
+
+
+
+
     }
 
     onNotification(notification) {
         console.log('[Notifications] on notification:', notification);
+    
         // Check if opened from forground
         if (notification.data.openedInForeground) {
             notification.userInteraction = true;
         }
+    
         if (notification.userInteraction)
         {
-          this.onNotificationCallback?.(notification)
+          this.onNotificationCallback?.(notification);
         }
+    
         // Only call callback if not from foreground
         if (!notification.data.openedInForeground) {
           notification.finish(PushNotificationIOS.FetchResult.NoData);
         }
       }
 
+
+
+
     render() {
         return (
             <AppRoutes />
+            // <ConfirmForgot />
         );
     }
 }
+
 export default App;
+

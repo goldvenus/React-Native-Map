@@ -1,59 +1,59 @@
 -- Merging decision tree log ---
 permission#com.jumpseat.permission.C2D_MESSAGE
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:17:5-19:47
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:17:5-19:47
 	android:name
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
 uses-permission#com.jumpseat.permission.C2D_MESSAGE
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:20:5-79
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:20:5-79
 	android:name
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
 category#com.jumpseat
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:48:17-61
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:48:17-61
 	android:name
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-MERGED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+MERGED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.multidex:multidex:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ffc2d7d832136e804331ac53d4acbb93/AndroidManifest.xml:17:1-22:12
-MERGED from [:react-native-push-notification] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
-MERGED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-vector-icons] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-splash-screen] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:@react-native-community_geolocation] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-gesture-handler] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:@react-native-community_async-storage] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
-MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/b30e0d9d522309e2861ae2fa6a62ed54/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-push-notification] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_geolocation] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/1b341e9bba84a67bab533e2ea55fa464/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:2:1-26:12
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82ac2ed512d5c25273893dfae3229ac7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/30c2e21a8776fe230b397708cf808bab/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cc386e756c772d041796a9975cdcd2e0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f2b960d6caf9728a9309391caf1af0d3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] /private/var/root/.gradle/caches/transforms-2/files-2.1/be7517e2790112f5a070f5bb1e368496/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f056f8b36876dca19beb10bd8aeaa78e/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/10aeeadef432ad7a190a4255e2827eae/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/71cfead8cc0cfbe9f3b2a4b4c22e22a0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f89c32a11c2225519938dccea0d3fe46/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d2612e3b37cdeb8315ab20210481544/AndroidManifest.xml:17:1-29:12
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /private/var/root/.gradle/caches/transforms-2/files-2.1/4676cdf9e3ea0d5c2d8569bb10ce8cde/AndroidManifest.xml:2:1-52:12
-MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/b65e823d230cdf42167cdf43cd11efb6/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/abe3a8d832d9c95015e9f6e695aeef72/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/5d28a9755fa85f1aeb664b99a84b434f/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ec096ea52d1597e072c29eb85514acd6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/52bffc63677f731a222d7f8d111b822f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c6d0fbf23b71abfbe8dc6703ccb0e567/AndroidManifest.xml:15:1-41:12
@@ -65,18 +65,18 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /private/var/root/.gradle/
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cfbcf6cf3d5f0cd85a851eb1cc4f03b2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/561650de2783a8564b394c2b7e2aedce/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26f804aeefc69b0550e88b90ff2eadf8/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/49a15fe2130e80c3b65efb3560f91b68/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1c53c2c47b2f303e127b02fd4477e73/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a72f28fa8c609168395a54584f2e13ea/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/94456095fafa2354053f96e2768616c9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a1d594e3afb30c65b52e1bcf18115b1d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/89a82f4d2e2b6cb22480a0e22aaecd18/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ba928ea5af856b688e0230c1d521c302/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6e7021285242426461831436de21e4fa/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/577720749d7a1f93e13d920cc7820f4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2d8dc909341a057459aed8077285f6f4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80a11401e917b38cb9601e0d9ce41b06/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/0053806533307e4a340e99da70c10348/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e416cd18e8e47a5bd59e20a94657a2b7/AndroidManifest.xml:17:1-22:12
@@ -95,7 +95,7 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /private/va
 MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d4c879d4e93bd0b83423405ab008649/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6734521ff04d967d27a29cf58a5fddd9/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0aef8c5d47e7258874fdf06b3196b80/AndroidManifest.xml:15:1-22:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/5c26f943f83f50c10294033027e655a9/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f538fec32e6b8fbf7eed26b94253d098/AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6533618e83ed77c746bc5732bfd10dd7/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.cardview:cardview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/792ac2f988778355468ffb2361686b2c/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7f90677fc22b7072454d515cde748499/AndroidManifest.xml:17:1-22:12
@@ -103,210 +103,210 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /private/var/root/.gradle
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/131c1a5dcd33329632a2d077030a20f9/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/843e791794c3c408e65967edcf13df2b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/79b548c47372e0126a0286e578797b2f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/ac0092455259affd82410d09f50c2504/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/2c7348fb639d6e1b3cf12d43b4d56941/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e4e7e5f5735d24f1ccbb84ef2b01880a/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b0ea90fd091c3c523ecca5578f6c1676/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/0b56f349e5d8848488cc9b727011552a/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a9310e529f9f29f15400994ad40c1119/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/69a294f895007e6137592ae952da4971/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/b8d4a8c75987e4f2e6cb1c7d88612687/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ed0d7dc6bfbde8c33fda2680f8036c62/AndroidManifest.xml:2:1-9:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/9d55d2e0d6a31fae44db2c69d8f04a51/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/70233d7f90254fac8d346c9301c846a4/AndroidManifest.xml:2:1-9:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:1-144:12
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:1-144:12
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:5:5-79
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:23:5-79
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c6d0fbf23b71abfbe8dc6703ccb0e567/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c6d0fbf23b71abfbe8dc6703ccb0e567/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:7:5-80
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:7:22-77
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:8:1-77
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:8:1-77
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:8:18-74
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:8:18-74
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:9:1-84
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:9:1-84
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:9:18-81
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:9:18-81
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:11:1-72
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:10:5-76
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:10:5-76
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:11:1-72
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:10:5-76
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:11:18-69
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:11:18-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:12:6-81
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:12:6-81
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:12:23-79
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:12:23-79
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:13:5-78
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:9:5-79
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:9:5-79
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:13:5-78
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:13:22-76
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:16:5-68
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:24:5-68
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:16:5-68
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:16:22-65
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:16:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:23:5-66
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:23:5-66
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:23:22-63
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:23:22-63
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:24:5-80
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:24:5-80
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:24:22-78
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:24:22-78
 application
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:27:5-142:19
-MERGED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:27:5-142:19
-MERGED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:27:5-142:19
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
-MERGED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
-MERGED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
-MERGED from [:react-native-splash-screen] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/b30e0d9d522309e2861ae2fa6a62ed54/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/b30e0d9d522309e2861ae2fa6a62ed54/AndroidManifest.xml:11:5-20
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:27:5-142:19
+MERGED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:27:5-142:19
+MERGED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:27:5-142:19
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-splash-screen] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/1b341e9bba84a67bab533e2ea55fa464/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/1b341e9bba84a67bab533e2ea55fa464/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:13:5-24:19
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:13:5-24:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82ac2ed512d5c25273893dfae3229ac7/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82ac2ed512d5c25273893dfae3229ac7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/30c2e21a8776fe230b397708cf808bab/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/30c2e21a8776fe230b397708cf808bab/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cc386e756c772d041796a9975cdcd2e0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cc386e756c772d041796a9975cdcd2e0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f2b960d6caf9728a9309391caf1af0d3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f2b960d6caf9728a9309391caf1af0d3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-core:16.0.9] /private/var/root/.gradle/caches/transforms-2/files-2.1/be7517e2790112f5a070f5bb1e368496/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] /private/var/root/.gradle/caches/transforms-2/files-2.1/be7517e2790112f5a070f5bb1e368496/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f056f8b36876dca19beb10bd8aeaa78e/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f056f8b36876dca19beb10bd8aeaa78e/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/10aeeadef432ad7a190a4255e2827eae/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/10aeeadef432ad7a190a4255e2827eae/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/71cfead8cc0cfbe9f3b2a4b4c22e22a0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/71cfead8cc0cfbe9f3b2a4b4c22e22a0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f89c32a11c2225519938dccea0d3fe46/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f89c32a11c2225519938dccea0d3fe46/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d2612e3b37cdeb8315ab20210481544/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d2612e3b37cdeb8315ab20210481544/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:28:5-36:19
@@ -315,308 +315,308 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c6d0fbf23b71abfbe8dc6703ccb0e567/AndroidManifest.xml:25:5-39:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26f804aeefc69b0550e88b90ff2eadf8/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26f804aeefc69b0550e88b90ff2eadf8/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/49a15fe2130e80c3b65efb3560f91b68/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/49a15fe2130e80c3b65efb3560f91b68/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1c53c2c47b2f303e127b02fd4477e73/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1c53c2c47b2f303e127b02fd4477e73/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a72f28fa8c609168395a54584f2e13ea/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a72f28fa8c609168395a54584f2e13ea/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/94456095fafa2354053f96e2768616c9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/94456095fafa2354053f96e2768616c9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a1d594e3afb30c65b52e1bcf18115b1d/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a1d594e3afb30c65b52e1bcf18115b1d/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/89a82f4d2e2b6cb22480a0e22aaecd18/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/89a82f4d2e2b6cb22480a0e22aaecd18/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ba928ea5af856b688e0230c1d521c302/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ba928ea5af856b688e0230c1d521c302/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6e7021285242426461831436de21e4fa/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6e7021285242426461831436de21e4fa/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/577720749d7a1f93e13d920cc7820f4a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/577720749d7a1f93e13d920cc7820f4a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2d8dc909341a057459aed8077285f6f4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2d8dc909341a057459aed8077285f6f4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d4c879d4e93bd0b83423405ab008649/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d4c879d4e93bd0b83423405ab008649/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6734521ff04d967d27a29cf58a5fddd9/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6734521ff04d967d27a29cf58a5fddd9/AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/ac0092455259affd82410d09f50c2504/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/ac0092455259affd82410d09f50c2504/AndroidManifest.xml:10:5-20
-MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/b8d4a8c75987e4f2e6cb1c7d88612687/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/b8d4a8c75987e4f2e6cb1c7d88612687/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/2c7348fb639d6e1b3cf12d43b4d56941/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/2c7348fb639d6e1b3cf12d43b4d56941/AndroidManifest.xml:10:5-20
+MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/9d55d2e0d6a31fae44db2c69d8f04a51/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/9d55d2e0d6a31fae44db2c69d8f04a51/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d4c879d4e93bd0b83423405ab008649/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-35
+		ADDED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:29:7-39
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:29:7-39
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:29:7-39
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:29:7-39
 	tools:ignore
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:31:7-52
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:31:7-52
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:31:7-52
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:31:7-52
 	tools:targetApi
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:30:7-41
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:30:7-41
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:30:7-41
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:30:7-41
 	android:allowBackup
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:32:7-34
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:32:7-34
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:32:7-34
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:32:7-34
 	android:theme
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:33:7-38
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:33:7-38
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:33:7-38
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:33:7-38
 	android:usesCleartextTraffic
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:28:7-38
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:28:7-38
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:28:7-38
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:28:7-38
 meta-data#com.dieam.reactnativepushnotification.notification_channel_name
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:35:2-36:42
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:35:2-36:42
 	android:value
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:36:17-40
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:36:17-40
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:35:14-92
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:35:14-92
 meta-data#com.dieam.reactnativepushnotification.notification_channel_description
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:37:9-38:46
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:37:9-38:46
 	android:value
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:38:21-44
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:38:21-44
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:37:21-106
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:37:21-106
 receiver#com.google.android.gms.gcm.GcmReceiver
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:42:21-50:20
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:42:21-50:20
 	android:exported
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:44:13-36
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:44:13-36
 	android:permission
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:45:13-73
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:45:13-73
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:43:13-66
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:43:13-66
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.jumpseat
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:46:13-49:29
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:46:13-49:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:47:17-81
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:47:17-81
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:47:25-78
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:47:25-78
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:54:9-110
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:54:9-110
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:54:19-107
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:54:19-107
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:55:9-59:20
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:55:9-59:20
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:55:19-115
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:55:19-115
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:56:13-58:29
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:56:13-58:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:57:17-79
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:57:17-79
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:57:25-76
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:57:25-76
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:61:9-118
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:61:9-118
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:61:18-116
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:61:18-116
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerServiceGcm
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:64:10-70:19
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:64:10-70:19
 	android:exported
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:66:13-37
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:66:13-37
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:65:13-110
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:65:13-110
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:67:13-69:29
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:67:13-69:29
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:73:10-79:19
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:73:10-79:19
 	android:exported
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:75:13-37
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:75:13-37
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:74:13-107
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:74:13-107
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:76:13-78:29
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:76:13-78:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:77:17-78
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:77:17-78
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:77:25-75
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:77:25-75
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:82:5-87:13
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:82:5-87:13
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:82:14-87
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:82:14-87
 service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:89:4-93:13
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:89:4-93:13
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:89:13-87
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:89:13-87
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:90:5-92:21
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:90:5-92:21
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:91:7-69
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:91:7-69
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:91:15-67
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:91:15-67
 service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:95:2-97
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:95:2-97
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:95:11-94
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:95:11-94
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:97:1-99:63
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:97:1-99:63
 	android:value
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:99:6-61
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:99:6-61
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:98:6-51
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:98:6-51
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:100:7-102:45
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:100:7-102:45
 	android:resource
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:102:5-43
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:102:5-43
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:101:5-75
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:101:5-75
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:104:6-107:8
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:104:6-107:8
 	android:resource
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:106:5-42
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:106:5-42
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:105:5-76
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:105:5-76
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:108:7-110:62
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:108:7-110:62
 	android:value
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:110:5-60
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:110:5-60
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:109:5-81
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:109:5-81
 activity#com.jumpseat.MainActivity
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:116:7-129:18
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:116:7-129:18
 	android:label
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:119:9-41
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:119:9-41
 	android:launchMode
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:122:9-39
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:122:9-39
 	android:windowSoftInputMode
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:121:9-48
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:121:9-48
 	android:configChanges
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:120:9-79
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:120:9-79
 	android:theme
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:118:9-40
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:118:9-40
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:117:9-37
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:117:9-37
 intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:124:9-128:25
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:124:9-128:25
 action#android.intent.action.MAIN
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:125:13-65
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:125:13-65
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:125:21-62
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:125:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:126:13-73
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:126:13-73
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:126:23-70
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:126:23-70
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:127:13-77
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:127:13-77
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:127:21-75
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:127:21-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:130:7-84
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:130:7-84
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:130:17-81
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:130:17-81
 receiver#io.invertase.firebase.notifications.RNFirebaseNotificationReceiver
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:132:8-101
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:132:8-101
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:132:18-99
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:132:18-99
 receiver#io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:133:3-140:14
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:133:3-140:14
 	android:enabled
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:133:13-35
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:133:13-35
 	android:exported
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:133:36-59
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:133:36-59
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:133:61-149
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:133:61-149
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:134:4-139:21
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:134:4-139:21
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:136:7-71
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:136:7-71
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:136:15-69
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:136:15-69
 action#com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:137:7-71
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:137:7-71
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:137:15-69
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:137:15-69
 category#android.intent.category.DEFAULT
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:138:7-66
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:138:7-66
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml:138:17-63
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml:138:17-63
 uses-sdk
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.multidex:multidex:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ffc2d7d832136e804331ac53d4acbb93/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ffc2d7d832136e804331ac53d4acbb93/AndroidManifest.xml:20:5-43
-MERGED from [:react-native-push-notification] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-push-notification] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-google-places] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:@react-native-community_geolocation] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_geolocation] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:@react-native-community_async-storage] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_netinfo] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-geolocation-service] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/b30e0d9d522309e2861ae2fa6a62ed54/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/b30e0d9d522309e2861ae2fa6a62ed54/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-places] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/1b341e9bba84a67bab533e2ea55fa464/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /private/var/root/.gradle/caches/transforms-2/files-2.1/1b341e9bba84a67bab533e2ea55fa464/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:7:5-44
-MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:7:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82ac2ed512d5c25273893dfae3229ac7/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82ac2ed512d5c25273893dfae3229ac7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/30c2e21a8776fe230b397708cf808bab/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/30c2e21a8776fe230b397708cf808bab/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cc386e756c772d041796a9975cdcd2e0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cc386e756c772d041796a9975cdcd2e0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f2b960d6caf9728a9309391caf1af0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f2b960d6caf9728a9309391caf1af0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] /private/var/root/.gradle/caches/transforms-2/files-2.1/be7517e2790112f5a070f5bb1e368496/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] /private/var/root/.gradle/caches/transforms-2/files-2.1/be7517e2790112f5a070f5bb1e368496/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f056f8b36876dca19beb10bd8aeaa78e/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f056f8b36876dca19beb10bd8aeaa78e/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/10aeeadef432ad7a190a4255e2827eae/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/10aeeadef432ad7a190a4255e2827eae/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/71cfead8cc0cfbe9f3b2a4b4c22e22a0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/71cfead8cc0cfbe9f3b2a4b4c22e22a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f89c32a11c2225519938dccea0d3fe46/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f89c32a11c2225519938dccea0d3fe46/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d2612e3b37cdeb8315ab20210481544/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7d2612e3b37cdeb8315ab20210481544/AndroidManifest.xml:20:5-44
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /private/var/root/.gradle/caches/transforms-2/files-2.1/4676cdf9e3ea0d5c2d8569bb10ce8cde/AndroidManifest.xml:7:5-9:41
 MERGED from [me.leolin:ShortcutBadger:1.1.21] /private/var/root/.gradle/caches/transforms-2/files-2.1/4676cdf9e3ea0d5c2d8569bb10ce8cde/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/b65e823d230cdf42167cdf43cd11efb6/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/b65e823d230cdf42167cdf43cd11efb6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/abe3a8d832d9c95015e9f6e695aeef72/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/abe3a8d832d9c95015e9f6e695aeef72/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/5d28a9755fa85f1aeb664b99a84b434f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/5d28a9755fa85f1aeb664b99a84b434f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ec096ea52d1597e072c29eb85514acd6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ec096ea52d1597e072c29eb85514acd6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/52bffc63677f731a222d7f8d111b822f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/52bffc63677f731a222d7f8d111b822f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/301af278e826776daa38e518215fbb53/AndroidManifest.xml:19:5-21:41
@@ -639,30 +639,30 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gr
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/561650de2783a8564b394c2b7e2aedce/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26f804aeefc69b0550e88b90ff2eadf8/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26f804aeefc69b0550e88b90ff2eadf8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/49a15fe2130e80c3b65efb3560f91b68/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/49a15fe2130e80c3b65efb3560f91b68/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1c53c2c47b2f303e127b02fd4477e73/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1c53c2c47b2f303e127b02fd4477e73/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a72f28fa8c609168395a54584f2e13ea/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a72f28fa8c609168395a54584f2e13ea/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/94456095fafa2354053f96e2768616c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/94456095fafa2354053f96e2768616c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a1d594e3afb30c65b52e1bcf18115b1d/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a1d594e3afb30c65b52e1bcf18115b1d/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/89a82f4d2e2b6cb22480a0e22aaecd18/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/89a82f4d2e2b6cb22480a0e22aaecd18/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ba928ea5af856b688e0230c1d521c302/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ba928ea5af856b688e0230c1d521c302/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6e7021285242426461831436de21e4fa/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6e7021285242426461831436de21e4fa/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/577720749d7a1f93e13d920cc7820f4a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/577720749d7a1f93e13d920cc7820f4a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2d8dc909341a057459aed8077285f6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2d8dc909341a057459aed8077285f6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80a11401e917b38cb9601e0d9ce41b06/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80a11401e917b38cb9601e0d9ce41b06/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/0053806533307e4a340e99da70c10348/AndroidManifest.xml:20:5-44
@@ -699,8 +699,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/va
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6734521ff04d967d27a29cf58a5fddd9/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0aef8c5d47e7258874fdf06b3196b80/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0aef8c5d47e7258874fdf06b3196b80/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/5c26f943f83f50c10294033027e655a9/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/5c26f943f83f50c10294033027e655a9/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f538fec32e6b8fbf7eed26b94253d098/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f538fec32e6b8fbf7eed26b94253d098/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6533618e83ed77c746bc5732bfd10dd7/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/6533618e83ed77c746bc5732bfd10dd7/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.cardview:cardview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/792ac2f988778355468ffb2361686b2c/AndroidManifest.xml:20:5-44
@@ -715,8 +715,8 @@ MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transf
 MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/843e791794c3c408e65967edcf13df2b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/79b548c47372e0126a0286e578797b2f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/79b548c47372e0126a0286e578797b2f/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/ac0092455259affd82410d09f50c2504/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/ac0092455259affd82410d09f50c2504/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/2c7348fb639d6e1b3cf12d43b4d56941/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/2c7348fb639d6e1b3cf12d43b4d56941/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e4e7e5f5735d24f1ccbb84ef2b01880a/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e4e7e5f5735d24f1ccbb84ef2b01880a/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b0ea90fd091c3c523ecca5578f6c1676/AndroidManifest.xml:20:5-44
@@ -727,92 +727,92 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a9310e529f9f29f15400994ad40c1119/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/69a294f895007e6137592ae952da4971/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/69a294f895007e6137592ae952da4971/AndroidManifest.xml:20:5-44
-MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/b8d4a8c75987e4f2e6cb1c7d88612687/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/b8d4a8c75987e4f2e6cb1c7d88612687/AndroidManifest.xml:7:5-43
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ed0d7dc6bfbde8c33fda2680f8036c62/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/ed0d7dc6bfbde8c33fda2680f8036c62/AndroidManifest.xml:5:5-7:41
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/9d55d2e0d6a31fae44db2c69d8f04a51/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/9d55d2e0d6a31fae44db2c69d8f04a51/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/70233d7f90254fac8d346c9301c846a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/70233d7f90254fac8d346c9301c846a4/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/src/debug/AndroidManifest.xml:5:22-75
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:27:9-33:19
+ADDED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:37:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:37:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+		ADDED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+ADDED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 	android:value
-		ADDED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+		ADDED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from [:react-native-firebase] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+		ADDED from [:react-native-firebase] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 provider#cl.json.RNShareFileProvider
-ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-25:20
+ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-25:20
 	android:grantUriPermissions
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-47
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-47
 	android:authorities
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-72
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-72
 	android:exported
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
 	tools:replace
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-48
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-48
 	android:name
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-55
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-55
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-24:52
+ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-24:52
 	android:resource
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-61
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-61
 	tools:replace
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:17-49
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:17-49
 	android:name
-		ADDED from [:react-native-share] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-67
+		ADDED from [:react-native-share] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-67
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+ADDED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+		ADDED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+		ADDED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+		ADDED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:react-native-webview] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+		ADDED from [:react-native-webview] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+		ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
 provider#com.RNFetchBlob.Utils.FileProvider
-ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
 	android:grantUriPermissions
-		ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+		ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
 	android:authorities
-		ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+		ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
 	android:exported
-		ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+		ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [:rn-fetch-blob] /Volumes/Data/ReactProjects/JumpSeatTill17Feb/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+		ADDED from [:rn-fetch-blob] /Volumes/Data/chawla data/jumpseat final/kanwal jump/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:23:5-82
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37679b424aa879f5ef3c68a2cdf2bfb4/AndroidManifest.xml:23:5-82
@@ -822,49 +822,49 @@ MERGED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/
 	android:name
 		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/26e24ac5fba7d8794e0031d6dd23955b/AndroidManifest.xml:23:22-79
 activity#com.google.android.libraries.places.widget.AutocompleteActivity
-ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:16:9-23:20
+ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:16:9-23:20
 	android:label
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:20:13-62
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:20:13-62
 	android:hardwareAccelerated
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:19:13-47
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:19:13-47
 	android:windowSoftInputMode
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:22:13-71
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:22:13-71
 	android:exported
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:18:13-37
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:18:13-37
 	android:theme
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:21:13-66
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:21:13-66
 	android:name
-		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/AndroidManifest.xml:17:13-91
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/AndroidManifest.xml:17:13-91
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:28:9-32
 uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:33:9-35:40
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b36129b744452d00436ffacaaf489fc4/AndroidManifest.xml:34:13-50
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/330dcb847ab25c03facba5ad675762dd/AndroidManifest.xml:34:13-50
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:29:13-82
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:38:13-40:85
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:38:13-40:85
 	android:value
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:40:17-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:40:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/AndroidManifest.xml:39:17-119
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/AndroidManifest.xml:39:17-119
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/230727c2eeba7d5dd5f4fb3f9c65a7ed/AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b9f832c67ee1055464b3f93b96219d31/AndroidManifest.xml:31:17-139
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
 ADDED from [com.google.firebase:firebase-iid:20.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/71c036d258b9df4ff5f4ffb47d574e2e/AndroidManifest.xml:32:13-34:85
 	android:value
@@ -952,13 +952,13 @@ ADDED from [me.leolin:ShortcutBadger:1.1.21] /private/var/root/.gradle/caches/tr
 	android:name
 		ADDED from [me.leolin:ShortcutBadger:1.1.21] /private/var/root/.gradle/caches/transforms-2/files-2.1/4676cdf9e3ea0d5c2d8569bb10ce8cde/AndroidManifest.xml:50:22-86
 meta-data#com.google.android.gms.version
-ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:10:13-66
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:10:13-66
 	android:name
-		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/3bd4ae880a473e4ae8cd77d03057fac7/AndroidManifest.xml:9:13-58
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/e8dd68b2ea654ca3971175cd8c345a58/AndroidManifest.xml:9:13-58
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
 ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /private/var/root/.gradle/caches/transforms-2/files-2.1/3632d40f053887fcb14663d4daf144d2/AndroidManifest.xml:28:13-30:85
 	android:value
@@ -994,66 +994,66 @@ ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/v
 	android:name
 		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c6d0fbf23b71abfbe8dc6703ccb0e567/AndroidManifest.xml:33:13-132
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/954d7832ea0edb2502c5ae9577f9460a/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f513affa78acf2cc8a22d310a12d56e0/AndroidManifest.xml:27:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/75606e6a4dbf5136f43f71a057473e1c/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b1ce242ff8882e2812b146e47410239e/AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a3f12f5e6c3909d2959f0ea5a106f22b/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a2d147331a037d3e2c1dd00b6fea6d00/AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:36:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:38:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:35:13-100
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:40:17-79
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:40:25-76
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:46:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:45:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:50:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:51:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:52:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f8607d2a89ecc8db6fddb3b9feae0ccc/AndroidManifest.xml:49:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3e6300fb311af402035adf140f7fbc87/AndroidManifest.xml:49:13-87

@@ -10,7 +10,7 @@ export default {
   CHECKPHONENO: "http://13.57.71.73/jumpseat/jumpSeat/checkPhoneNumberStatus",
   USERDETAIL: "http://13.57.71.73/jumpseat/jumpSeat/viewProfile",
   EDITPROFILE: "http://13.57.71.73/jumpseat/jumpSeat/editProfile",
-  GETAIRPORTS: "http://13.57.71.73/jumpseat/jumpSeat/getAirports",
+  GETAIRPORTS: "http://13.57.71.73/jumpseat/jumpSeat/getAirportsTest",
   VIEWCARD: "http://13.57.71.73/jumpseat/jumpSeat/viewCardDetails",
   ADDCARD: "http://13.57.71.73/jumpseat/jumpSeat/addCard",
   GETAIRPORTBYSEARCH: "http://13.57.71.73/jumpseat/jumpSeat/getAirportsBySearch",

@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/res/values-mk/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/res/values-mk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "0,0,0,0,0,0,0,0",
+                        "startOffsets": "184,266,331,419,486,531,601,695",
+                        "endColumns": "81,64,87,66,44,69,93,51",
+                        "endOffsets": "265,330,418,485,530,600,694,746"
+                    },
+                    "to": {
+                        "startLines": "49,50,51,52,53,54,55,56",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5798,5884,5953,6045,6116,6165,6239,6337",
+                        "endColumns": "85,68,91,70,48,73,97,55",
+                        "endOffsets": "5879,5948,6040,6111,6160,6234,6332,6388"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/res/values-mk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,23 +89,6 @@
                     }
                 },
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/res/values-mk/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11",
-                        "startColumns": "0,0,0,0,0,0,0,0",
-                        "startOffsets": "184,266,331,419,486,531,601,695",
-                        "endColumns": "81,64,87,66,44,69,93,51",
-                        "endOffsets": "265,330,418,485,530,600,694,746"
-                    },
-                    "to": {
-                        "startLines": "49,50,51,52,53,54,55,56",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5798,5884,5953,6045,6116,6165,6239,6337",
-                        "endColumns": "85,68,91,70,48,73,97,55",
-                        "endOffsets": "5879,5948,6040,6111,6160,6234,6332,6388"
-                    }
-                },
-                {
                     "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7d4c879d4e93bd0b83423405ab008649/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2",
@@ -106,7 +106,7 @@
                     }
                 },
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/res/values-mk/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/res/values-mk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

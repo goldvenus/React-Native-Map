@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Data/ReactProjects/JumpSeatTill17Feb/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
+            "outputFile": "/Volumes/Data/chawla data/jumpseat final/kanwal jump/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/27c373054f9dc63fc160aeed924dadee/res/values-eu/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/222460171de9e0fd03cd8bd32d55336f/res/values-eu/values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "200",
-                        "endOffsets": "447"
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "0,0,0,0,0,0,0,0",
+                        "startOffsets": "184,258,322,423,486,529,605,686",
+                        "endColumns": "73,63,100,62,42,75,80,55",
+                        "endOffsets": "257,321,422,485,528,604,685,741"
                     },
                     "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4033",
-                        "endColumns": "200",
-                        "endOffsets": "4229"
+                        "startLines": "49,50,51,52,53,54,55,56",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5861,5939,6007,6112,6179,6226,6306,6391",
+                        "endColumns": "77,67,104,66,46,79,84,59",
+                        "endOffsets": "5934,6002,6107,6174,6221,6301,6386,6446"
                     }
                 },
                 {
@@ -55,24 +55,24 @@
                     }
                 },
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/9368a18cf6de9cd65ad2ce4e74193585/res/values-eu/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/543306a262ceeabcdc53242e8bec0f79/res/values-eu/values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11",
-                        "startColumns": "0,0,0,0,0,0,0,0",
-                        "startOffsets": "184,258,322,423,486,529,605,686",
-                        "endColumns": "73,63,100,62,42,75,80,55",
-                        "endOffsets": "257,321,422,485,528,604,685,741"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "200",
+                        "endOffsets": "447"
                     },
                     "to": {
-                        "startLines": "49,50,51,52,53,54,55,56",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5861,5939,6007,6112,6179,6226,6306,6391",
-                        "endColumns": "77,67,104,66,46,79,84,59",
-                        "endOffsets": "5934,6002,6107,6174,6221,6301,6386,6446"
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4033",
+                        "endColumns": "200",
+                        "endOffsets": "4229"
                     }
                 },
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/334bd468a43dce96dffeb87608183d33/res/values-eu/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/62d41beaee46d0a128e1b53f7d55726f/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

@@ -10,6 +10,8 @@ import AsyncStorageKyes from '../../utils/AsyncStorageKyes';
 import { getAirportsList, getAirportsFilterSearchList, addFavouriteAirports, viewFavouriteUserAirports, getAirportReports, likeDislikeFlag } from './Action';
 import AsyncStorage from '@react-native-community/async-storage';
 import EndPoint from '../../utils/EndPoint';
+import Loader from '../../components/Loader';
+
 
 const LATITUDE_DELTA = 0.10;
 const LONGITUDE_DELTA = 0.10;
@@ -18,6 +20,7 @@ export default class Map extends Component {
     static navigationOptions = {
         header: null,
     };
+
     constructor(props) {
         super(props);
         this.state = {
@@ -46,18 +49,22 @@ export default class Map extends Component {
             longitudeDelta: 0.0,
             latitudeDelta: 0.0,
             airportname: "",
+            zoomLevel: '',
+            smallAirport: [], mediumAirports: [], largeAirports: [],loadAirports:true
+
         }
     }
 
     FlatListItemSeparator = () => {
         return (
-            <View style={style.seperatorStyle}/>
+            <View style={style.seperatorStyle} />
         );
     }
 
     componentDidMount() {
         this.getLocation();
         this.gotoCurrentLocation();
+
     }
 
     // Method for Like dislike Flags
@@ -67,7 +74,8 @@ export default class Map extends Component {
             console.log("res", response);
             if (response != null) {
                 if (response.status === 1) {
-                    this.setState({ page: 0,},()=>this.getAirportReports(data, 1))}
+                    this.setState({ page: 0, }, () => this.getAirportReports(data, 1))
+                }
                 else {
                     this.setState({ loading: false });
                     alert("Error " + error.message)
@@ -83,7 +91,7 @@ export default class Map extends Component {
 
     //To delete the Favourite Airport
     deleteFavouriteAirports = (id) => {
-        if (id === "") {}
+        if (id === "") { }
         else {
             this.setState({ loading: true, });
             AsyncStorage.getItem(AsyncStorageKyes.USER_TOKEN).then((value) => addFavouriteAirports({ token: value, airportId: '', favAirportId: id, addDeleteStatus: '2' }, (response, error) => {
@@ -129,33 +137,77 @@ export default class Map extends Component {
         ))
     }
 
+    // filterData
+
+    filterData = (data) => {
+        if(data){
+        var markersss = [];
+        for (var i = 0; i < data.length; i++) {
+            var lat = data[i];
+            this.setState({ airportResponse: lat })
+            var getCordinates = {
+                title: lat.airport,
+                description: lat.city,
+                id: lat.id,
+                airportCode: lat.airportCode,
+                havingReportsStatus: lat.havingReportsStatus,
+                coordinate: {
+                    latitude: Number(lat.latitude),
+                    longitude: Number(lat.longitude),
+                }
+            }
+            markersss.push(getCordinates);
+        }
+        this.setState({ markers: markersss,loadAirports:false }
+            // ,()=>alert(JSON.stringify(this.state.markers))
+            );
+        }
+    }
     // get Airport data
     getAirportResult(type) {
         this.setState({ loading: true, });
         const { latitude, longitude } = this.state;
         AsyncStorage.getItem(AsyncStorageKyes.USER_TOKEN).then((value) => getAirportsList({ latitude: latitude, longitude: longitude, token: value, zoomType: type }, (response, error) => {
-            console.log("resp", response);
             if (response != null) {
+              console.log(JSON.stringify(response))
                 if (response.status === 1) {
-                    this.setState({ loading: false, airportReportData: response.data.airports });
-                    var markers = [];
-                    for (var i = 0; i < response.data.airports.length; i++) {
-                        var lat = response.data.airports[i];
-                        this.setState({ airportResponse: lat })
-                        var getCordinates = {
-                            title: lat.airport,
-                            description: lat.city,
-                            id: lat.id,
-                            airportCode: lat.airportCode,
-                            havingReportsStatus: lat.havingReportsStatus,
-                            coordinate: {
-                                latitude: Number(lat.latitude),
-                                longitude: Number(lat.longitude),
-                            }
-                        }
-                        markers.push(getCordinates);
-                    }
-                    this.setState({ markers: markers });
+                    this.setState({loading:false,smallAirport:response.data.smallAirport,mediumAirports:response.data.mediumAirports,
+                    largeAirports:response.data.largeAirports}
+                    ,()=>
+                    this.filterData(response.data.smallAirport)
+                    
+                    )
+                    // this.setState({
+                    //     loading: false, smallAirport: response.data.smallAirport,
+                    //     mediumAirports: response.data.response.data.mediumAirports,
+                    //     largeAirports: response.data.largeAirports
+                    // }
+                    // ,()=>
+                    // console.log("bdjsdfjchb "+ JSON.stringify(response.data.smallAirport)))
+                    //this.state.zoomLevel === 4 ? 
+                    //     response.data.smallAirport : this.state.zoomLevel === 3 ? response.data.mediumAirports 
+                    //     :response.data.largeAirports },()=>
+                    //     this.filterData(this.state.airportReportData)
+                    //     );
+
+                    // var markers = [];
+                    // for (var i = 0; i < response.data.airports.length; i++) {
+                    //     var lat = response.data.airports[i];
+                    //     this.setState({ airportResponse: lat })
+                    //     var getCordinates = {
+                    //         title: lat.airport,
+                    //         description: lat.city,
+                    //         id: lat.id,
+                    //         airportCode: lat.airportCode,
+                    //         havingReportsStatus: lat.havingReportsStatus,
+                    //         coordinate: {
+                    //             latitude: Number(lat.latitude),
+                    //             longitude: Number(lat.longitude),
+                    //         }
+                    //     }
+                    //     markers.push(getCordinates);
+                    // }
+                    // this.setState({ markers: markers });
                 }
                 else {
                 }
@@ -194,7 +246,7 @@ export default class Map extends Component {
                     }
                     this.setState({ markers: markers });
                 }
-                else {}
+                else { }
             }
             else {
                 this.setState({ loading: false });
@@ -274,7 +326,7 @@ export default class Map extends Component {
                             this.setState({
                                 airportname: data.airport, selectedAirport: data.title, selectedAirportCode: data.airportCode, selectedId: data.id,
                                 favouriteAirportData: this.state.reportsData, showCalloutView: !this.state.showCalloutView, selected: false
-                            },()=>{})
+                            }, () => { })
                         }
                         else {
                             this.setState({ selectedId: data.id, selectedAirport: data.title, selectedAirportCode: data.airportCode, selected: false, favouriteAirportData: null, showCalloutView: true })
@@ -293,7 +345,8 @@ export default class Map extends Component {
                                 var check = i > 0 && formatted === formatted2 ? true : false
                                 var getData = {
                                     data: item,
-                                    sameDate: check}
+                                    sameDate: check
+                                }
                                 this.state.reportsData.push(getData)
                             }
                             this.setState({ selected: false, favouriteAirportData: this.state.reportsData, showCalloutView: this.state.showCalloutView })
@@ -306,7 +359,7 @@ export default class Map extends Component {
                         this.setState({ showOpacity: false })
                     }
                 }
-                else {}
+                else { }
             }
             else {
                 this.setState({ loading: false });
@@ -315,7 +368,7 @@ export default class Map extends Component {
         }))
     }
 
-// Method to Move to Current Location
+    // Method to Move to Current Location
     moveTocurrentLocation() {
         Geolocation.getCurrentPosition(position => {
             const region = {
@@ -340,7 +393,7 @@ export default class Map extends Component {
                         longitudeDelta: 0.005
                     })
                 }
-                else {}
+                else { }
             },
             (error) => alert('Error: Are location services on?'),
             { enableHighAccuracy: true }
@@ -463,7 +516,8 @@ export default class Map extends Component {
                 (position) => {
                     let tempCoords = {
                         latitude: position.coords.latitude,
-                        longitude: position.coords.longitude}
+                        longitude: position.coords.longitude
+                    }
                     this.getLocationName(position.coords.latitude, position.coords.longitude)
                     this.refs.map.animateToCoordinate(tempCoords, 3000);
                     AsyncStorage.setItem('CURRENTLAT', JSON.stringify(position.coords.latitude))
@@ -480,7 +534,7 @@ export default class Map extends Component {
     }
 
     moveToEventDetailScreen = () => {
-        const item = {airportCode: this.state.selectedAirportCode,airportId: this.state.selectedId}
+        const item = { airportCode: this.state.selectedAirportCode, airportId: this.state.selectedId }
         this.setState({ showCalloutView: true }, () => this.props.navigation.navigate('reportevent', { airportDetail: item }))
     }
 
@@ -573,27 +627,38 @@ export default class Map extends Component {
     // Get Airport Markers on Zoom Level
     getRegion(region) {
         if ((region.latitudeDelta <= 140.000) && (region.latitudeDelta >= 90.000)) {
-            this.getAirportResult(3);
+            this.getAirportResult();
         }
         else if ((region.latitudeDelta <= 90.000) && (region.latitudeDelta >= 45.000)) {
-            this.getAirportResult(2);
+            this.getAirportResult();
         }
         else if (region.latitudeDelta <= 45.000) {
-             this.getAirportResult(1);
+            this.getAirportResult();
         }
     }
 
     checkshowCallout() {
         Keyboard.dismiss()
-        if (this.state.showCalloutView){
-        this.setState({ showCalloutView: false, showOpacity: true, searchcontent: [], text: '', showSearchView: false, })
-        }{
-        this.setState({ showCalloutView: false, showOpacity: true, searchcontent: [], text: '', showSearchView: false, })
+        if (this.state.showCalloutView) {
+            this.setState({ showCalloutView: false, showOpacity: true, searchcontent: [], text: '', showSearchView: false, })
+        } {
+            this.setState({ showCalloutView: false, showOpacity: true, searchcontent: [], text: '', showSearchView: false, })
         }
     }
 
-    showMarkers(region) {
+    detectZoomLevel(region) {
         let zoom = Math.round(Math.log(360 / region.longitudeDelta) / Math.LN2)
+        this.setState({ zoomLevel: zoom })
+        if (zoom === 2) {
+            this.filterData(this.state.largeAirports)
+        }
+        else if (zoom === 3) {
+           this.filterData(this.state.mediumAirports)
+        }
+        else if (zoom === 4) {
+          this.filterData(this.state.smallAirport)
+        }
+
     }
 
     render() {
@@ -607,14 +672,17 @@ export default class Map extends Component {
                     ref={map => (this.map = map)}
                     clustering={true}
                     showsCompass={true}
-                    scrollEnabled={true} 
+                    scrollEnabled={true}
                     showScale={true}
                     showsIndoors={true}
                     moveOnMarkerPress={true}
                     ref="map"
-                    style={[style.mapOuterStyle,{bottom:this.state.marginBottom,opacity:this.state.showOpacity?null:0.5}]}
-                    onRegionChangeComplete={(region) => this.setState({latitude:region.latitude,longitude:region.longitude},()=>{
-                    setTimeout(()=>{this.getRegion(region)},500)})}
+                    style={[style.mapOuterStyle, { bottom: this.state.marginBottom, opacity: this.state.showOpacity ? null : 0.5 }]}
+                    onRegionChangeComplete={(region) =>
+                        this.detectZoomLevel(region)
+                        // this.setState({latitude:region.latitude,longitude:region.longitude},()=>{
+                        // setTimeout(()=>{this.getRegion(region)},500)})
+                    }
                     initialRegion={{
                         latitude: Number(this.state.latitude),
                         longitude: Number(this.state.longitude),
@@ -637,7 +705,7 @@ export default class Map extends Component {
                         {this.state.favouriteAirportData != null ?
                             <View style={style.calloutInnerView}>
                                 <Text style={style.locationName}>
-                                {this.state.selectedAirport + " (" + this.state.selectedAirportCode + ")"}
+                                    {this.state.selectedAirport + " (" + this.state.selectedAirportCode + ")"}
                                 </Text>
                                 <FlatList
                                     contentContainerStyle={style.flatlistContainerView}
@@ -662,7 +730,8 @@ export default class Map extends Component {
                         </TouchableOpacity>
                     </View>
                     : null}
-                <View style={style.tabelView}>
+            {this.state.loadAirports ? <Loader /> : null }
+            <View style={style.tabelView}>
                     <View style={style.tableinnerView}>
                         <TouchableOpacity onPress={() => this.props.navigation.openDrawer()}>
                             <Image
@@ -689,16 +758,16 @@ export default class Map extends Component {
                             </Image>
                         </TouchableOpacity>
                     </View>
-                    {this.state.showSearchView 
-                    ?<View style={style.showSearchOuterView}>
-                        <FlatList
-                            contentContainerStyle={style.flatlistContainerView}
-                            data={this.state.searchcontent}
-                            renderItem={({ item }) => this.renderViewForList(item)}
-                            keyExtractor={(item, index) => index.toString()}
-                        />
-                     </View>
-                    : null}
+                    {this.state.showSearchView
+                        ? <View style={style.showSearchOuterView}>
+                            <FlatList
+                                contentContainerStyle={style.flatlistContainerView}
+                                data={this.state.searchcontent}
+                                renderItem={({ item }) => this.renderViewForList(item)}
+                                keyExtractor={(item, index) => index.toString()}
+                            />
+                        </View>
+                        : null}
                 </View>
                 <TouchableOpacity style={style.curentLocContainer} onPress={() => this.moveTocurrentLocation()}>
                     <Image style={{ width: 35, height: 38 }} source={images.currentloc}></Image>
