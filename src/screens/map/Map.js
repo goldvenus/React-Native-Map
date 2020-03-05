@@ -478,6 +478,7 @@ export default class Map extends Component {
 
     search = (item) => {
         this.checkSearchedData(item)
+        this.setState({ selectedId: item.airportId, selectedAirport: item.airport, selectedAirportCode: item.airportCode, selected: false, favouriteAirportData: null, showCalloutView: true })
     };
 
     openSearchModal() {
