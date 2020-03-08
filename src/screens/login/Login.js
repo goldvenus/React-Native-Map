@@ -156,9 +156,9 @@ export default class Login extends Component {
             this.setState({ loading: true });
             var logincomponent = { email: userName, password: password, deviceToken: Platform.OS === 'ios' ? token : token };
             loginUser(logincomponent, (response, error) => {
-                console.log("res", response);
+                console.log("res", userName, password, response);
                 if (error) {
-                    alert('Unable to login, Please try again after sometime')
+                    alert(`${error}=> UserName: ${userName}, password: ${password}`)
                 }
                 this.setState({ loading: false });
                 if (response != null) {
