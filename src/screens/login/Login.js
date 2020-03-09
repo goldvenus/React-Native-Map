@@ -158,7 +158,7 @@ export default class Login extends Component {
             loginUser(logincomponent, (response, error) => {
                 console.log("res", userName, password, response);
                 if (error) {
-                    alert(`${error}=> UserName: ${userName}, password: ${password}`)
+                    alert('Unable to login, Please try again after sometime')
                 }
                 this.setState({ loading: false });
                 if (response != null) {
